@@ -1,5 +1,5 @@
 # snake
-This is the traditional snake game coded in python3 and revived/designed in a minimal flat aesthetic.
+This is the traditional snake game coded in python3 (pygame) and revived/designed in a minimal flat aesthetic.
 
 
 **Gameplay**
